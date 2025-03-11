@@ -31,11 +31,11 @@ var app = builder.Build();
 
 
 
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 app.MapGet("/tasks", async (ToDoDbContext db) =>
 {
@@ -96,5 +96,5 @@ app.UseRouting();
 app.UseCors("MyPolicy");
 app.UseAuthorization();
 app.MapControllers();
-
+app.MapGet("/",()=>"ToDoListServer API is running");
 app.Run();
