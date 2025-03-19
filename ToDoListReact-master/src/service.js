@@ -2,7 +2,7 @@ import axios from './axiosConfig';
 
 
 // הגדירי את כתובת ה-api כ-default. השתמשי ב-Config Defaults.
-axios.defaults.baseURL = 'https://api.example.com';
+axios.defaults.baseURL = process.env.REACT_APP_API_URL;
 // axios.defaults.headers.common['Authorization'] = AUTH_TOKEN;
 axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
 
