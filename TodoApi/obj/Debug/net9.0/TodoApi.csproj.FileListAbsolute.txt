@@ -131,7 +131,6 @@ C:\הנדסאים\פרקטיקוד\פרקטיקוד 3\TodoApi\bin\Debug\net9.0\S
 C:\הנדסאים\פרקטיקוד\פרקטיקוד 3\TodoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\הנדסאים\פרקטיקוד\פרקטיקוד 3\TodoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\הנדסאים\פרקטיקוד\פרקטיקוד 3\TodoApi\obj\Debug\net9.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
-C:\הנדסאים\פרקטיקוד\PraktikodServer-Client\TodoApi\bin\Debug\net9.0\appsettings.Development.json
 C:\הנדסאים\פרקטיקוד\PraktikodServer-Client\TodoApi\bin\Debug\net9.0\TodoApi.staticwebassets.endpoints.json
 C:\הנדסאים\פרקטיקוד\PraktikodServer-Client\TodoApi\bin\Debug\net9.0\appsettings.json
 C:\הנדסאים\פרקטיקוד\PraktikodServer-Client\TodoApi\bin\Debug\net9.0\TodoApi.exe

@@ -6,7 +6,7 @@ axios.defaults.baseURL = 'https://api.example.com';
 // axios.defaults.headers.common['Authorization'] = AUTH_TOKEN;
 axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
 
-const apiUrl = process.end.REACT_APP_API_URL
+const apiUrl = process.env.REACT_APP_API_URL
 
 export default {
   getTasks: async () => {
